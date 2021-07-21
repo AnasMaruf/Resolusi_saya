@@ -1,5 +1,7 @@
 RENCANA SAYA
-- Javascript
+- Javascript :
+  - cs6
+  -Framework Javascript
 - php
 - css
 - html
