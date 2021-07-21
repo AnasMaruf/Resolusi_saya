@@ -3,6 +3,7 @@ RENCANA SAYA
   - cs6
   -Framework Javascript
    *view
+   *react
 - struktur data dasar
 - php
   *Laravel
