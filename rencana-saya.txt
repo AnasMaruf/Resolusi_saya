@@ -2,7 +2,11 @@ RENCANA SAYA
 - Javascript :
   - cs6
   -Framework Javascript
+   *view
+   *react
 - struktur data dasar
 - php
+  *Laravel
 - css
 - html
+- python
